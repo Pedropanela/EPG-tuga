@@ -1,27 +1,27 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="elevensports1.pt">
-    <display-name lang="en">Eleven Sports 1</display-name>
+    <display-name lang="pt">Eleven Sports 1</display-name>
     <url>http://www.tudonumclick.com</url>
   </channel>
   <channel id="elevensports2.pt">
-    <display-name lang="en">Eleven Sports 2</display-name>
+    <display-name lang="pt">Eleven Sports 2</display-name>
     <url>http://www.tudonumclick.com</url>
   </channel>
   <channel id="elevensports3.pt">
-    <display-name lang="en">Eleven Sports 3</display-name>
+    <display-name lang="pt">Eleven Sports 3</display-name>
     <url>http://www.tudonumclick.com</url>
   </channel>
   <channel id="elevensports4.pt">
-    <display-name lang="en">Eleven Sports 4</display-name>
+    <display-name lang="pt">Eleven Sports 4</display-name>
     <url>http://www.tudonumclick.com</url>
   </channel>
   <channel id="elevensports5.pt">
-    <display-name lang="en">Eleven Sports 5</display-name>
+    <display-name lang="pt">Eleven Sports 5</display-name>
     <url>http://www.tudonumclick.com</url>
   </channel>
   <channel id="elevensports6.pt">
-    <display-name lang="en">Eleven Sports 6</display-name>
+    <display-name lang="pt">Eleven Sports 6</display-name>
     <url>http://www.tudonumclick.com</url>
   </channel>
   <programme start="20210727040000 +0100" stop="20210727050000 +0100" channel="elevensports1.pt">
