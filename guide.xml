@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="elevensports1.pt">
     <display-name lang="pt">Eleven Sports 1</display-name>
@@ -24,324 +24,1526 @@
     <display-name lang="pt">Eleven Sports 6</display-name>
     <url>http://www.tudonumclick.com</url>
   </channel>
-  <programme start="20210728010000 +0100" stop="20210728020000 +0100" channel="elevensports1.pt">
+  <programme start="20210730010000 +0100" stop="20210730020000 +0100" channel="elevensports1.pt">
     <title lang="pt">LaLiga Talking Footbal</title>
     <desc lang="pt">A LaLiga visita uma série de figuras do passado e do presente para falarem da paixão pelo jogo. Xavi Hernandez, ex-jogador do Barcelona, descreve e analisa o futebol espanhol.(n)</desc>
   </programme>
-  <programme start="20210728020000 +0100" stop="20210728040000 +0100" channel="elevensports1.pt">
-    <title lang="pt">Liga Dos Campeões: Porto x Chelsea</title>
-    <desc lang="pt">Assista ao jogo da UEFA Champions League entre Porto x Chelsea.(n)</desc>
+  <programme start="20210730020000 +0100" stop="20210730040000 +0100" channel="elevensports1.pt">
+    <title lang="pt">Liga Dos Campeões: Chelsea x Porto</title>
+    <desc lang="pt">Assista ao jogo da UEFA Champions League entre Chelsea x Porto.(n)</desc>
   </programme>
-  <programme start="20210728040000 +0100" stop="20210728050000 +0100" channel="elevensports1.pt">
+  <programme start="20210730040000 +0100" stop="20210730050000 +0100" channel="elevensports1.pt">
     <title lang="pt">LaLiga Talking Footbal</title>
     <desc lang="pt">A LaLiga visita uma série de figuras do passado e do presente para falarem da paixão pelo jogo. Xavi Hernandez, ex-jogador do Barcelona, descreve e analisa o futebol espanhol.(n)</desc>
   </programme>
-  <programme start="20210728050000 +0100" stop="20210728070000 +0100" channel="elevensports1.pt">
-    <title lang="pt">La Liga: 2ª mão Playoffs - Almería x Girona</title>
-    <desc lang="pt">Assista ao jogo da LaLiga Smartbank Almería x Girona.(n)</desc>
+  <programme start="20210730050000 +0100" stop="20210730070000 +0100" channel="elevensports1.pt">
+    <title lang="pt">La Liga: R. Vallecano x Girona</title>
+    <desc lang="pt">Assista ao jogo da LaLiga Smartbank entre R. Vallecano x Girona.(n)</desc>
   </programme>
-  <programme start="20210728070000 +0100" stop="20210728073000 +0100" channel="elevensports1.pt">
+  <programme start="20210730070000 +0100" stop="20210730073000 +0100" channel="elevensports1.pt">
     <title lang="pt">Champions League Extra</title>
     <desc lang="pt">Fica por dentro de tudo o que envolve a maior competição mundial a nível de clubes. Champions League, um exclusivo Eleven Sports.(n)</desc>
   </programme>
-  <programme start="20210728073000 +0100" stop="20210728083000 +0100" channel="elevensports1.pt">
-    <title lang="pt">Ligue 1 A Temporada</title>
-    <desc lang="pt">Recorde todos os momentos que marcaram a época histórica da Ligue 1.(n)</desc>
+  <programme start="20210730073000 +0100" stop="20210730083000 +0100" channel="elevensports1.pt">
+    <title lang="pt">Triatlo Highlights - Zwift Tri Battle Royale Magazine</title>
+    <desc lang="pt">Assista ao Triatlo Highlights.(n)</desc>
   </programme>
-  <programme start="20210728083000 +0100" stop="20210728090000 +0100" channel="elevensports1.pt">
+  <programme start="20210730083000 +0100" stop="20210730090000 +0100" channel="elevensports1.pt">
     <title lang="pt">LaLiga - Os melhores momentos</title>
     <desc lang="pt">Veja os jogos, jogadores e momentos mais lendários da LaLiga. Este programa conta com a opinião de mais de 120 prestigiados jornalistas, jogadores, treinadores e fãs.(n)</desc>
   </programme>
-  <programme start="20210728090000 +0100" stop="20210728091500 +0100" channel="elevensports1.pt">
+  <programme start="20210730090000 +0100" stop="20210730091500 +0100" channel="elevensports1.pt">
     <title lang="pt">Custom Series</title>
     <desc lang="pt">Assista ao Custom Series.(n)</desc>
   </programme>
-  <programme start="20210728091500 +0100" stop="20210728143000 +0100" channel="elevensports1.pt">
-    <title lang="pt">FGS21 EU Playoffs, Day 2 (Xbox)</title>
+  <programme start="20210730091500 +0100" stop="20210730144500 +0100" channel="elevensports1.pt">
+    <title lang="pt">FGS21 EU Playoffs, Day 1 (PS4)</title>
     <desc lang="pt">Este torneio de eSports reúne os melhores jogadores do mundo de FIFA21, no final só um será o campeão mundial.(n)</desc>
   </programme>
-  <programme start="20210728143000 +0100" stop="20210728150000 +0100" channel="elevensports1.pt">
-    <title lang="pt">LaLiga - Os melhores momentos</title>
-    <desc lang="pt">Veja os jogos, jogadores e momentos mais lendários da LaLiga. Este programa conta com a opinião de mais de 120 prestigiados jornalistas, jogadores, treinadores e fãs.(n)</desc>
-  </programme>
-  <programme start="20210728150000 +0100" stop="20210728160000 +0100" channel="elevensports1.pt">
+  <programme start="20210730144500 +0100" stop="20210730153000 +0100" channel="elevensports1.pt">
     <title lang="pt">F2, Tackling Europe</title>
     <desc lang="pt">O Famoso duo de freestylers de futebol F2 viaja pela Europa em busca de grandes desafios.(n)</desc>
   </programme>
-  <programme start="20210728160000 +0100" stop="20210728180000 +0100" channel="elevensports1.pt">
-    <title lang="pt">Liga Dos Campeões: PSG x Man. City</title>
-    <desc lang="pt">Assista ao jogo da UEFA Champions League entre PSG x Man. City.(n)</desc>
+  <programme start="20210730153000 +0100" stop="20210730173000 +0100" channel="elevensports1.pt">
+    <title lang="pt">Liga Dos Campeões: Chelsea x Real Madrid</title>
+    <desc lang="pt">Assista ao jogo da UEFA Champions League entre Chelsea x Real Madrid.(n)</desc>
   </programme>
-  <programme start="20210728180000 +0100" stop="20210728184500 +0100" channel="elevensports1.pt">
-    <title lang="pt">Take Us Home, Leeds United</title>
-    <desc lang="pt">O novo dono do Leeds United, Andrea Radrizzani, tem uma missão: levar o Leeds United de volta à Premier League. Mas primeiro ele deve encontrar um novo treinador capaz de cumprir os sonhos dos adeptos do clube.(n)</desc>
+  <programme start="20210730173000 +0100" stop="20210730193000 +0100" channel="elevensports1.pt">
+    <title lang="pt">Bundesliga 2: Paderborn x Nürnberg &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+    <desc lang="pt">Assista ao jogo do campeonato da 2ª divisão alemã de futebol entre Paderborn x Nürnberg.(n)</desc>
   </programme>
-  <programme start="20210728184500 +0100" stop="20210728190000 +0100" channel="elevensports1.pt">
+  <programme start="20210730193000 +0100" stop="20210730203000 +0100" channel="elevensports1.pt">
+    <title lang="pt">LaLiga - Gala dos Campeões &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+    <desc lang="pt">Assista ao Gala dos Campeões.(n)</desc>
+  </programme>
+  <programme start="20210730203000 +0100" stop="20210730210000 +0100" channel="elevensports1.pt">
+    <title lang="pt">LaLiga - Os melhores momentos</title>
+    <desc lang="pt">Veja os jogos, jogadores e momentos mais lendários da LaLiga. Este programa conta com a opinião de mais de 120 prestigiados jornalistas, jogadores, treinadores e fãs.(n)</desc>
+  </programme>
+  <programme start="20210730210000 +0100" stop="20210730211500 +0100" channel="elevensports1.pt">
     <title lang="pt">Paul Gasol – Em viagem com DeLorean</title>
     <desc lang="pt">O melhor jogador espanhol de basquetebol de todos os tempos, campeão da Liga ACB 20 anos depois do último título no Barcelona e antes de ser jogador da NBA. Gasol recorda situações e sentimentos de ambos os títulos.(n)</desc>
   </programme>
-  <programme start="20210728190000 +0100" stop="20210728193000 +0100" channel="elevensports1.pt">
-    <title lang="pt">LaLiga - Os melhores momentos</title>
-    <desc lang="pt">Veja os jogos, jogadores e momentos mais lendários da LaLiga. Este programa conta com a opinião de mais de 120 prestigiados jornalistas, jogadores, treinadores e fãs.(n)</desc>
+  <programme start="20210730211500 +0100" stop="20210730214500 +0100" channel="elevensports1.pt">
+    <title lang="pt">Laliga - Melhores defesas</title>
+    <desc lang="pt">Assista as melhores defesas da LaLiga.(n)</desc>
   </programme>
-  <programme start="20210728193000 +0100" stop="20210728213000 +0100" channel="elevensports1.pt">
-    <title lang="pt">A Definir: Blackburn Rovers x Leeds &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
-    <desc lang="pt">Assista ao Jogos Amigáveis entre Blackburn Rovers x Leeds.(n)</desc>
+  <programme start="20210730214500 +0100" stop="20210730220000 +0100" channel="elevensports1.pt">
+    <title lang="pt">Laliga - O Melhor Guarda-Redes</title>
+    <desc lang="pt">Assista ao melhor Guarda-Redes da LaLiga.(n)</desc>
   </programme>
-  <programme start="20210728213000 +0100" stop="20210728223000 +0100" channel="elevensports1.pt">
-    <title lang="pt">Take Us Home, Leeds United</title>
-    <desc lang="pt">O Leeds United enfrenta grandes desafios ao tentar lidar com o impacto devastador da Covid-19. Com o Reino Unido a entrar em confinamento, terá Marcelo Bielsa e seus jogadores a chance de ser promovidos de volta à Premier League.(n)</desc>
+  <programme start="20210730220000 +0100" stop="20210730230000 +0100" channel="elevensports1.pt">
+    <title lang="pt">LaLiga - Gala dos Campeões</title>
+    <desc lang="pt">Assista ao Gala dos Campeões.(n)</desc>
   </programme>
-  <programme start="20210728223000 +0100" stop="20210728230000 +0100" channel="elevensports1.pt">
+  <programme start="20210730230000 +0100" stop="20210730230000 +0100" channel="elevensports1.pt">
+    <title lang="pt">Jogo Amigável: Fleetwood Town x Leeds</title>
+    <desc lang="pt">Assista ao Jogos Amigáveis entre Fleetwood Town x Leeds.(n)</desc>
+  </programme>
+  <programme start="20210730230000 +0100" stop="20210731010000 +0100" channel="elevensports1.pt">
+    <title lang="pt">Jogo Amigável: Fleetwood Town x Leeds</title>
+    <desc lang="pt">Assista ao Jogos Amigáveis entre Fleetwood Town x Leeds.(n)</desc>
+  </programme>
+  <programme start="20210731010000 +0100" stop="20210731030000 +0100" channel="elevensports1.pt">
+    <title lang="pt">Bundesliga 2: Paderborn x Nürnberg</title>
+    <desc lang="pt">Assista ao jogo do campeonato da 2ª divisão alemã de futebol entre Paderborn x Nürnberg.(n)</desc>
+  </programme>
+  <programme start="20210731030000 +0100" stop="20210731050000 +0100" channel="elevensports1.pt">
+    <title lang="pt">Jupiler Pro League: Genk x Oostende</title>
+    <desc lang="pt">Assista ao jogo da Jupiler Pro League entre Genk x Oostende.(n)</desc>
+  </programme>
+  <programme start="20210731050000 +0100" stop="20210731071500 +0100" channel="elevensports1.pt">
+    <title lang="pt">La Liga: Girona x R. Vallecano - 2ª mão Final</title>
+    <desc lang="pt">Assista ao jogo da LaLiga Smartbank entre Girona x R. Vallecano.(n)</desc>
+  </programme>
+  <programme start="20210731071500 +0100" stop="20210731074500 +0100" channel="elevensports1.pt">
+    <title lang="pt">Laliga - Melhores defesas</title>
+    <desc lang="pt">Assista as melhores defesas da LaLiga.(n)</desc>
+  </programme>
+  <programme start="20210731074500 +0100" stop="20210731080000 +0100" channel="elevensports1.pt">
+    <title lang="pt">Custom Series</title>
+    <desc lang="pt">Assista ao Custom Series.(n)</desc>
+  </programme>
+  <programme start="20210731080000 +0100" stop="20210731123000 +0100" channel="elevensports1.pt">
+    <title lang="pt">FGS21 EU Playoffs, Day 2 (PS4)</title>
+    <desc lang="pt">Este torneio de eSports reúne os melhores jogadores do mundo de FIFA21, no final só um será o campeão mundial.(n)</desc>
+  </programme>
+  <programme start="20210731123000 +0100" stop="20210731143000 +0100" channel="elevensports1.pt">
+    <title lang="pt">A Definir: Leeds x Real Betis &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+    <desc lang="pt">Assista ao Jogos Amigáveis entre Leeds x Real Betis.(n)</desc>
+  </programme>
+  <programme start="20210731143000 +0100" stop="20210731144500 +0100" channel="elevensports1.pt">
+    <title lang="pt">Ligue 1 - Perfil do Clube Época 21/22, PSG</title>
+    <desc lang="pt">Conheça melhor a história do Paris Saint-Germain recordando imagens e personagens históricas do clube.(n)</desc>
+  </programme>
+  <programme start="20210731144500 +0100" stop="20210731151500 +0100" channel="elevensports1.pt">
+    <title lang="pt">Paul Gasol – Em viagem com DeLorean</title>
+    <desc lang="pt">O melhor jogador espanhol de basquetebol de todos os tempos, campeão da Liga ACB 20 anos depois do último título no Barcelona e antes de ser jogador da NBA. Gasol recorda situações e sentimentos de ambos os títulos.(n)</desc>
+  </programme>
+  <programme start="20210731151500 +0100" stop="20210731171500 +0100" channel="elevensports1.pt">
+    <title lang="pt">Jupiler Pro League: Charleroi x St-Truidense &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+    <desc lang="pt">Assista ao jogo da Jupiler Pro League entre Charleroi x Sint-Truidense.(n)</desc>
+  </programme>
+  <programme start="20210731171500 +0100" stop="20210731193000 +0100" channel="elevensports1.pt">
+    <title lang="pt">A Definir: Leeds x Real Betis</title>
+    <desc lang="pt">Assista ao Jogos Amigáveis entre Leeds x Real Betis.(n)</desc>
+  </programme>
+  <programme start="20210731193000 +0100" stop="20210731213000 +0100" channel="elevensports1.pt">
+    <title lang="pt">Bundesliga 2: Düsseldorf x Bremen &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+    <desc lang="pt">Assista ao jogo do campeonato da 2ª divisão alemã de futebol entre Düsseldorf x Bremen.(n)</desc>
+  </programme>
+  <programme start="20210731213000 +0100" stop="20210731220000 +0100" channel="elevensports1.pt">
     <title lang="pt">WTA Magazine Show</title>
     <desc lang="pt">Conheça os torneios, as atletas, as histórias e todo o envolvimento do mundo do WTA, a competição de ténis feminino.(n)</desc>
   </programme>
-  <programme start="20210728230000 +0100" stop="20210728233000 +0100" channel="elevensports1.pt">
-    <title lang="pt">Jupiler Pro League - Resumos da Jornada RD01</title>
-    <desc lang="pt">Vê os melhores momentos da jornada da Liga Belga. Os golos, jogadas e defesas decisivas do campeonato de onde têm saído grandes talentos do futebol europeu.(n)</desc>
+  <programme start="20210731220000 +0100" stop="20210801000000 +0100" channel="elevensports1.pt">
+    <title lang="pt">A Definir: Leeds x Real Betis</title>
+    <desc lang="pt">Assista ao Jogos Amigáveis entre Leeds x Real Betis.(n)</desc>
   </programme>
-  <programme start="20210728050000 +0100" stop="20210728070000 +0100" channel="elevensports2.pt">
-    <title lang="pt">Man. City x PSG - Champions League</title>
-    <desc lang="pt">Assista ao jogo da UEFA Champions League entre Man. City x PSG.(n)</desc>
+  <programme start="20210801000000 +0100" stop="20210801220000 +0100" channel="elevensports1.pt">
+    <title lang="pt">Scottish Premiership: Heart of Midlothian x Celtic</title>
+    <desc lang="pt">Assista ao jogo da Scottish Premiership entre Heart of Midlothian x Celtic.(n)</desc>
   </programme>
-  <programme start="20210728070000 +0100" stop="20210728090000 +0100" channel="elevensports2.pt">
-    <title lang="pt">Chelsea x Real Madrid - Champions League</title>
-    <desc lang="pt">Assista ao jogo da UEFA Champions League entre Chelsea x Real Madrid.(n)</desc>
+  <programme start="20210801220000 +0100" stop="20210802000000 +0100" channel="elevensports1.pt">
+    <title lang="pt">A Definir: Leeds x Real Betis</title>
   </programme>
-  <programme start="20210728090000 +0100" stop="20210728100000 +0100" channel="elevensports2.pt">
+  <programme start="20210802000000 +0100" stop="20210802020000 +0100" channel="elevensports1.pt">
+    <title lang="pt">Scottish Premiership: Heart of Midlothian x Celtic</title>
+  </programme>
+  <programme start="20210802020000 +0100" stop="20210802040000 +0100" channel="elevensports1.pt">
+    <title lang="pt">Bundesliga 2: Düsseldorf x Bremen</title>
+  </programme>
+  <programme start="20210802040000 +0100" stop="20210802050000 +0100" channel="elevensports1.pt">
+    <title lang="pt">LaLiga Talking Footbal</title>
+  </programme>
+  <programme start="20210802050000 +0100" stop="20210802070000 +0100" channel="elevensports1.pt">
+    <title lang="pt">Sporting x Barcelona - UEFA Futsal Champions League</title>
+  </programme>
+  <programme start="20210802070000 +0100" stop="20210802080000 +0100" channel="elevensports1.pt">
+    <title lang="pt">Magazine de antevisão da temporada</title>
+  </programme>
+  <programme start="20210802080000 +0100" stop="20210802081500 +0100" channel="elevensports1.pt">
+    <title lang="pt">Paul Gasol – Em viagem com DeLorean</title>
+  </programme>
+  <programme start="20210802081500 +0100" stop="20210802091500 +0100" channel="elevensports1.pt">
+    <title lang="pt">Triatlo Highlights - Zwift Tri Battle Royale Magazine</title>
+  </programme>
+  <programme start="20210802091500 +0100" stop="20210802123000 +0100" channel="elevensports1.pt">
+    <title lang="pt">FGS21 EU Playoffs, Day 3 (PS4)</title>
+  </programme>
+  <programme start="20210802123000 +0100" stop="20210802143000 +0100" channel="elevensports1.pt">
+    <title lang="pt">Bundesliga 2: Kiel x Schalke &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+  </programme>
+  <programme start="20210802143000 +0100" stop="20210802153000 +0100" channel="elevensports1.pt">
+    <title lang="pt">Take Us Home, Leeds United</title>
+  </programme>
+  <programme start="20210802153000 +0100" stop="20210802173000 +0100" channel="elevensports1.pt">
+    <title lang="pt">A Definir: Liverpool x Hertha Berlim</title>
+  </programme>
+  <programme start="20210802173000 +0100" stop="20210802180000 +0100" channel="elevensports1.pt">
+    <title lang="pt">WTA Magazine Show</title>
+  </programme>
+  <programme start="20210802180000 +0100" stop="20210802181500 +0100" channel="elevensports1.pt">
+    <title lang="pt">Ligue 1 - Perfil do Clube Época 21/22, PSG</title>
+  </programme>
+  <programme start="20210802181500 +0100" stop="20210802190000 +0100" channel="elevensports1.pt">
+    <title lang="pt">Trophée des Champions - Pré-jogo Lille x PSG &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+  </programme>
+  <programme start="20210802190000 +0100" stop="20210802210000 +0100" channel="elevensports1.pt">
+    <title lang="pt">Ligue 1: Lille x PSG &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+  </programme>
+  <programme start="20210802210000 +0100" stop="20210802214500 +0100" channel="elevensports1.pt">
+    <title lang="pt">Trophée des Champions - Pós-jogo Lille x PSG &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+  </programme>
+  <programme start="20210802214500 +0100" stop="20210802220000 +0100" channel="elevensports1.pt">
+    <title lang="pt">Ligue 1 - Perfil do Clube Época 21/22, PSG</title>
+  </programme>
+  <programme start="20210802220000 +0100" stop="20210803000000 +0100" channel="elevensports1.pt">
+    <title lang="pt">Scottish Premiership: Motherwell x Hibernian</title>
+  </programme>
+  <programme start="20210803000000 +0100" stop="20210803220000 +0100" channel="elevensports1.pt">
+    <title lang="pt">Ligue 1: Lille x PSG</title>
+  </programme>
+  <programme start="20210803220000 +0100" stop="20210804000000 +0100" channel="elevensports1.pt">
+    <title lang="pt">Scottish Premiership: Motherwell x Hibernian</title>
+  </programme>
+  <programme start="20210804000000 +0100" stop="20210804020000 +0100" channel="elevensports1.pt">
+    <title lang="pt">Ligue 1: Lille x PSG</title>
+  </programme>
+  <programme start="20210804020000 +0100" stop="20210804040000 +0100" channel="elevensports1.pt">
+    <title lang="pt">Jupiler Pro League: Gent x Beerschot</title>
+  </programme>
+  <programme start="20210804040000 +0100" stop="20210804050000 +0100" channel="elevensports1.pt">
+    <title lang="pt">LaLiga Talking Footbal</title>
+  </programme>
+  <programme start="20210804050000 +0100" stop="20210804064500 +0100" channel="elevensports1.pt">
+    <title lang="pt">Ténis: ATP 250 Newport - Jogo João Sousa</title>
+  </programme>
+  <programme start="20210804064500 +0100" stop="20210804081500 +0100" channel="elevensports1.pt">
+    <title lang="pt">Ténis: ATP 250 Newport - Main Draw Singles #1</title>
+  </programme>
+  <programme start="20210804081500 +0100" stop="20210804091500 +0100" channel="elevensports1.pt">
+    <title lang="pt">Triatlo Highlights - Zwift Tri Battle Royale Magazine</title>
+  </programme>
+  <programme start="20210804091500 +0100" stop="20210804094500 +0100" channel="elevensports1.pt">
+    <title lang="pt">WTA Magazine Show</title>
+  </programme>
+  <programme start="20210804094500 +0100" stop="20210804104500 +0100" channel="elevensports1.pt">
+    <title lang="pt">UCL Magazine</title>
+  </programme>
+  <programme start="20210804104500 +0100" stop="20210804110000 +0100" channel="elevensports1.pt">
+    <title lang="pt">Final da UCL, Filme Oficial</title>
+  </programme>
+  <programme start="20210804110000 +0100" stop="20210804114500 +0100" channel="elevensports1.pt">
+    <title lang="pt">Champions Eleven - Sorteio Play-off &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+  </programme>
+  <programme start="20210804114500 +0100" stop="20210804120000 +0100" channel="elevensports1.pt">
+    <title lang="pt">Archive Mini-series, Como conquistamos</title>
+  </programme>
+  <programme start="20210804120000 +0100" stop="20210804130000 +0100" channel="elevensports1.pt">
+    <title lang="pt">UCL Magazine</title>
+  </programme>
+  <programme start="20210804130000 +0100" stop="20210804134500 +0100" channel="elevensports1.pt">
+    <title lang="pt">Champions Eleven - Sorteio Play-off</title>
+  </programme>
+  <programme start="20210804134500 +0100" stop="20210804140000 +0100" channel="elevensports1.pt">
+    <title lang="pt">Final da UCL, Filme Oficial</title>
+  </programme>
+  <programme start="20210804140000 +0100" stop="20210804151500 +0100" channel="elevensports1.pt">
+    <title lang="pt">Bundesliga Clubs</title>
+  </programme>
+  <programme start="20210804151500 +0100" stop="20210804161500 +0100" channel="elevensports1.pt">
+    <title lang="pt">LaLiga Os Melhores Golos</title>
+  </programme>
+  <programme start="20210804161500 +0100" stop="20210804171500 +0100" channel="elevensports1.pt">
+    <title lang="pt">Ligue 1 A Temporada</title>
+  </programme>
+  <programme start="20210804171500 +0100" stop="20210804191500 +0100" channel="elevensports1.pt">
+    <title lang="pt">Ligue 1: Trophée des Champions - Pré-jogo Lille x PSG</title>
+  </programme>
+  <programme start="20210804191500 +0100" stop="20210804194500 +0100" channel="elevensports1.pt">
+    <title lang="pt">Ligue 1 - Perfil do Clube Época 21/22, PSG</title>
+  </programme>
+  <programme start="20210804194500 +0100" stop="20210804214500 +0100" channel="elevensports1.pt">
+    <title lang="pt">Scottish Premiership: Kilmarnock x Ayr United &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+  </programme>
+  <programme start="20210804214500 +0100" stop="20210804224500 +0100" channel="elevensports1.pt">
+    <title lang="pt">Planeta ELEVEN</title>
+  </programme>
+  <programme start="20210804224500 +0100" stop="20210805000000 +0100" channel="elevensports1.pt">
+    <title lang="pt">Bundesliga Clubs</title>
+  </programme>
+  <programme start="20210805000000 +0100" stop="20210805224500 +0100" channel="elevensports1.pt">
+    <title lang="pt">Scottish Premiership: Kilmarnock x Ayr United</title>
+  </programme>
+  <programme start="20210805224500 +0100" stop="20210806000000 +0100" channel="elevensports1.pt">
+    <title lang="pt">Bundesliga Clubs</title>
+  </programme>
+  <programme start="20210730050000 +0100" stop="20210730070000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Wolfsburg x Bayern - Bundesliga</title>
+    <desc lang="pt">Assista ao jogo do campeonato alemão de futebol entre Wolfsburg x Bayern.(n)</desc>
+  </programme>
+  <programme start="20210730070000 +0100" stop="20210730090000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Bayern x M´Gladbach - Bundesliga</title>
+    <desc lang="pt">Assista ao jogo do campeonato alemão de futebol entre Bayern x M´Gladbach.(n)</desc>
+  </programme>
+  <programme start="20210730090000 +0100" stop="20210730100000 +0100" channel="elevensports2.pt">
     <title lang="pt">LaLiga Talking Footbal</title>
     <desc lang="pt">A LaLiga visita uma série de figuras do passado e do presente para falarem da paixão pelo jogo. Xavi Hernandez, ex-jogador do Barcelona, descreve e analisa o futebol espanhol.(n)</desc>
   </programme>
-  <programme start="20210728100000 +0100" stop="20210728114500 +0100" channel="elevensports2.pt">
-    <title lang="pt">Tenis: ATP 250 Newport Singles 1/4 Final #1</title>
+  <programme start="20210730100000 +0100" stop="20210730121500 +0100" channel="elevensports2.pt">
+    <title lang="pt">Tenis: ATP 250 Newport Singles 1/4 Final #4</title>
     <desc lang="pt">Torneio profissional de ténis masculino, de nível internacional.(n)</desc>
   </programme>
-  <programme start="20210728114500 +0100" stop="20210728144500 +0100" channel="elevensports2.pt">
-    <title lang="pt">Tenis: ATP 250 Newport Singles 1/4 Final #2</title>
+  <programme start="20210730121500 +0100" stop="20210730153000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Tenis: ATP 250 Newport Singles 1/2 Final #1</title>
     <desc lang="pt">Torneio profissional de ténis masculino, de nível internacional.(n)</desc>
   </programme>
-  <programme start="20210728144500 +0100" stop="20210728150000 +0100" channel="elevensports2.pt">
-    <title lang="pt">Ligue 1 - Perfil do Clube Época 21/22, PSG</title>
-    <desc lang="pt">Conheça melhor a história do Paris Saint-Germain recordando imagens e personagens históricas do clube.(n)</desc>
+  <programme start="20210730153000 +0100" stop="20210730160000 +0100" channel="elevensports2.pt">
+    <title lang="pt">WTA Magazine Show</title>
+    <desc lang="pt">Conheça os torneios, as atletas, as histórias e todo o envolvimento do mundo do WTA, a competição de ténis feminino.(n)</desc>
   </programme>
-  <programme start="20210728150000 +0100" stop="20210728170000 +0100" channel="elevensports2.pt">
-    <title lang="pt">Bayern x Dortmund - Bundesliga</title>
-    <desc lang="pt">Assista ao jogo do campeonato alemão de futebol entre Bayern x Dortmund.(n)</desc>
+  <programme start="20210730160000 +0100" stop="20210730170000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Triatlo Highlights - Zwift Tri Battle Royale Magazine</title>
+    <desc lang="pt">Assista ao Triatlo Highlights.(n)</desc>
   </programme>
-  <programme start="20210728170000 +0100" stop="20210728190000 +0100" channel="elevensports2.pt">
-    <title lang="pt">PSG x Lille - Ligue 1</title>
-    <desc lang="pt">Assista ao jogo da Ligue 1 Uber Eats entre PSG x Lille.(n)</desc>
+  <programme start="20210730170000 +0100" stop="20210730190000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Levante x Barcelona - LaLiga Santander</title>
+    <desc lang="pt">Assista ao jogo da LaLiga Santander entre Levante x Barcelona.(n)</desc>
   </programme>
-  <programme start="20210728190000 +0100" stop="20210728210000 +0100" channel="elevensports2.pt">
-    <title lang="pt">Futsal: Sporting x Sport Club KPRF</title>
-    <desc lang="pt">Assista ao jogo da UEFA Futsal Champions League entre Sporting x Sport Club KPRF.(n)</desc>
+  <programme start="20210730190000 +0100" stop="20210730210000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Fleetwood Town x Leeds - Jogos Amigáveis &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+    <desc lang="pt">Assista ao Jogos Amigáveis entre Fleetwood Town x Leeds.(n)</desc>
   </programme>
-  <programme start="20210728210000 +0100" stop="20210728213000 +0100" channel="elevensports2.pt">
+  <programme start="20210730210000 +0100" stop="20210730213000 +0100" channel="elevensports2.pt">
     <title lang="pt">Champions League Extra</title>
     <desc lang="pt">Fica por dentro de tudo o que envolve a maior competição mundial a nível de clubes. Champions League, um exclusivo Eleven Sports.(n)</desc>
   </programme>
-  <programme start="20210728213000 +0100" stop="20210728223000 +0100" channel="elevensports2.pt">
-    <title lang="pt">Ligue 1 A Temporada</title>
-    <desc lang="pt">Recorde todos os momentos que marcaram a época histórica da Ligue 1.(n)</desc>
+  <programme start="20210730213000 +0100" stop="20210730223000 +0100" channel="elevensports2.pt">
+    <title lang="pt">UCL Magazine</title>
+    <desc lang="pt">Os resumos, reportagens, entrevistas exclusivas e as melhores imagens da Liga dos Campeões da UEFA.(n)</desc>
   </programme>
-  <programme start="20210728223000 +0100" stop="20210728233000 +0100" channel="elevensports2.pt">
+  <programme start="20210730223000 +0100" stop="20210730231500 +0100" channel="elevensports2.pt">
     <title lang="pt">F2, Tackling Europe</title>
     <desc lang="pt">O Famoso duo de freestylers de futebol F2 viaja pela Europa em busca de grandes desafios.(n)</desc>
   </programme>
-  <programme start="20210728233000 +0100" stop="20210728234500 +0100" channel="elevensports2.pt">
-    <title lang="pt">Ligue 1 - Perfil do Clube Época 21/22, PSG</title>
-    <desc lang="pt">Conheça melhor a história do Paris Saint-Germain recordando imagens e personagens históricas do clube.(n)</desc>
+  <programme start="20210730231500 +0100" stop="20210730233000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Ligue 1 - Perfil do Clube Época 21/22, Oly. Marseille</title>
+    <desc lang="pt">Conheça melhor a história do Olympique de Marseille recordando imagens e personagens históricas do clube.(n)</desc>
   </programme>
-  <programme start="20210728011500 +0100" stop="20210728013000 +0100" channel="elevensports3.pt">
+  <programme start="20210730233000 +0100" stop="20210730234500 +0100" channel="elevensports2.pt">
+    <title lang="pt">Ligue 1 - Perfil do Clube Época 21/22, St. Reims</title>
+    <desc lang="pt">Conheça melhor a história do Stade de Reims recordando imagens e personagens históricas do clube.(n)</desc>
+  </programme>
+  <programme start="20210730234500 +0100" stop="20210730234500 +0100" channel="elevensports2.pt">
+    <title lang="pt">LaLiga, O campeão da LaLiga Santander.</title>
+    <desc lang="pt">Assista ao O campeão da LaLiga Santander.(n)</desc>
+  </programme>
+  <programme start="20210730234500 +0100" stop="20210731004500 +0100" channel="elevensports2.pt">
+    <title lang="pt">LaLiga, O campeão da LaLiga Santander.</title>
+    <desc lang="pt">Assista ao O campeão da LaLiga Santander.(n)</desc>
+  </programme>
+  <programme start="20210731004500 +0100" stop="20210731050000 +0100" channel="elevensports2.pt">
+    <title lang="pt">FGS21 EU Playoffs, Day 2 (PS4)</title>
+    <desc lang="pt">Este torneio de eSports reúne os melhores jogadores do mundo de FIFA21, no final só um será o campeão mundial.(n)</desc>
+  </programme>
+  <programme start="20210731050000 +0100" stop="20210731070000 +0100" channel="elevensports2.pt">
+    <title lang="pt">R. Sociedad x Barcelona - LaLiga Santander</title>
+    <desc lang="pt">Assista ao jogo da LaLiga Santander entre R. Sociedad x Barcelona.(n)</desc>
+  </programme>
+  <programme start="20210731070000 +0100" stop="20210731090000 +0100" channel="elevensports2.pt">
+    <title lang="pt">PSG x Lyon - Ligue 1</title>
+    <desc lang="pt">Assista ao jogo da Ligue 1 Uber Eats entre PSG x Lyon.(n)</desc>
+  </programme>
+  <programme start="20210731090000 +0100" stop="20210731100000 +0100" channel="elevensports2.pt">
+    <title lang="pt">LaLiga Talking Footbal</title>
+    <desc lang="pt">A LaLiga visita uma série de figuras do passado e do presente para falarem da paixão pelo jogo. Xavi Hernandez, ex-jogador do Barcelona, descreve e analisa o futebol espanhol.(n)</desc>
+  </programme>
+  <programme start="20210731100000 +0100" stop="20210731133000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Tenis: ATP 250 Newport Singles 1/2 Final #1</title>
+    <desc lang="pt">Torneio profissional de ténis masculino, de nível internacional.(n)</desc>
+  </programme>
+  <programme start="20210731133000 +0100" stop="20210731153000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Rangers x Livingston - Scottish Premiership &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+    <desc lang="pt">Assista ao jogo da Scottish Premiership entre Rangers x Livingston.(n)</desc>
+  </programme>
+  <programme start="20210731153000 +0100" stop="20210731163000 +0100" channel="elevensports2.pt">
+    <title lang="pt">LaLiga, O campeão da LaLiga Santander.</title>
+    <desc lang="pt">Assista ao O campeão da LaLiga Santander.(n)</desc>
+  </programme>
+  <programme start="20210731163000 +0100" stop="20210731170000 +0100" channel="elevensports2.pt">
+    <title lang="pt">WTA Magazine Show</title>
+    <desc lang="pt">Conheça os torneios, as atletas, as histórias e todo o envolvimento do mundo do WTA, a competição de ténis feminino.(n)</desc>
+  </programme>
+  <programme start="20210731170000 +0100" stop="20210731190000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Monaco x Lyon - Ligue 1 Uber Eats</title>
+    <desc lang="pt">Assista ao jogo da Ligue 1 Uber Eats entre Monaco x Lyon.(n)</desc>
+  </programme>
+  <programme start="20210731190000 +0100" stop="20210731200000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Bundesliga A Temporada</title>
+    <desc lang="pt">Reveja o filme de uma temporada emocionante da liga alemã.(n)</desc>
+  </programme>
+  <programme start="20210731200000 +0100" stop="20210731220000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Heart of Midlothian x Celtic - Scottish Premiership &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+    <desc lang="pt">Assista ao jogo da Scottish Premiership entre Heart of Midlothian x Celtic.(n)</desc>
+  </programme>
+  <programme start="20210731220000 +0100" stop="20210731223000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Laliga - Melhores defesas</title>
+    <desc lang="pt">Assista as melhores defesas da LaLiga.(n)</desc>
+  </programme>
+  <programme start="20210731223000 +0100" stop="20210731233000 +0100" channel="elevensports2.pt">
+    <title lang="pt">UCL Magazine</title>
+    <desc lang="pt">Os resumos, reportagens, entrevistas exclusivas e as melhores imagens da Liga dos Campeões da UEFA.(n)</desc>
+  </programme>
+  <programme start="20210731233000 +0100" stop="20210731234500 +0100" channel="elevensports2.pt">
+    <title lang="pt">Ligue 1 - Perfil do Clube Época 21/22, Angers</title>
+    <desc lang="pt">Conheça melhor a história do Angers recordando imagens e personagens históricas do clube.(n)</desc>
+  </programme>
+  <programme start="20210731234500 +0100" stop="20210731234500 +0100" channel="elevensports2.pt">
+    <title lang="pt">Charleroi x St-Truidense - Jupiler Pro League</title>
+    <desc lang="pt">Assista ao jogo da Jupiler Pro League entre Charleroi x Sint-Truidense.(n)</desc>
+  </programme>
+  <programme start="20210731234500 +0100" stop="20210801014500 +0100" channel="elevensports2.pt">
+    <title lang="pt">Charleroi x St-Truidense - Jupiler Pro League</title>
+  </programme>
+  <programme start="20210801014500 +0100" stop="20210801050000 +0100" channel="elevensports2.pt">
+    <title lang="pt">FGS21 EU Playoffs, Day 3 (PS4)</title>
+  </programme>
+  <programme start="20210801050000 +0100" stop="20210801070000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Bayern x M´Gladbach - Bundesliga</title>
+  </programme>
+  <programme start="20210801070000 +0100" stop="20210801090000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Atlético x Real Madrid - LaLiga Santander</title>
+  </programme>
+  <programme start="20210801090000 +0100" stop="20210801093000 +0100" channel="elevensports2.pt">
+    <title lang="pt">WTA Magazine Show</title>
+  </programme>
+  <programme start="20210801093000 +0100" stop="20210801123000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Tenis: ATP 250 Newport Singles Final</title>
+  </programme>
+  <programme start="20210801123000 +0100" stop="20210801143000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Union St Gilloise x Club Brugge - Jupiler Pro League &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+  </programme>
+  <programme start="20210801143000 +0100" stop="20210801153000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Bundesliga A Temporada</title>
+  </programme>
+  <programme start="20210801153000 +0100" stop="20210801163000 +0100" channel="elevensports2.pt">
+    <title lang="pt">LaLiga - Gala dos Campeões</title>
+  </programme>
+  <programme start="20210801163000 +0100" stop="20210801183000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Motherwell x Hibernian - Scottish Premiership &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+  </programme>
+  <programme start="20210801183000 +0100" stop="20210801190000 +0100" channel="elevensports2.pt">
+    <title lang="pt">LaLiga - Os melhores momentos</title>
+  </programme>
+  <programme start="20210801190000 +0100" stop="20210801210000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Kiel x Schalke - Bundesliga 2</title>
+  </programme>
+  <programme start="20210801210000 +0100" stop="20210801230000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Union St Gilloise x Club Brugge - Jupiler Pro League</title>
+  </programme>
+  <programme start="20210801230000 +0100" stop="20210801230000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Liverpool x Hertha Berlim - Jogos Amigáveis</title>
+  </programme>
+  <programme start="20210801230000 +0100" stop="20210802010000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Liverpool x Hertha Berlim - Jogos Amigáveis</title>
+  </programme>
+  <programme start="20210802010000 +0100" stop="20210802030000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Düsseldorf x Bremen - Bundesliga 2</title>
+  </programme>
+  <programme start="20210802030000 +0100" stop="20210802050000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Motherwell x Hibernian - Scottish Premiership</title>
+  </programme>
+  <programme start="20210802050000 +0100" stop="20210802070000 +0100" channel="elevensports2.pt">
+    <title lang="pt">A Definir: Mini Torneio - Pré-Época, Liverpool - Stuttgart - Wacker Innsbruck</title>
+  </programme>
+  <programme start="20210802070000 +0100" stop="20210802090000 +0100" channel="elevensports2.pt">
+    <title lang="pt">A Definir: Liverpool x Mainz</title>
+  </programme>
+  <programme start="20210802090000 +0100" stop="20210802110000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Bundesliga 2: Schalke x Hamburger</title>
+  </programme>
+  <programme start="20210802110000 +0100" stop="20210802130000 +0100" channel="elevensports2.pt">
+    <title lang="pt">La Liga: Legends El Clasico, Barcelona x Real Madrid</title>
+  </programme>
+  <programme start="20210802130000 +0100" stop="20210802150000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Scottish Premiership: Heart Of Midlothian x Celtic</title>
+  </programme>
+  <programme start="20210802150000 +0100" stop="20210802170000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Bundesliga 2: Bremen x Hannover</title>
+  </programme>
+  <programme start="20210802170000 +0100" stop="20210802181500 +0100" channel="elevensports2.pt">
+    <title lang="pt">Bundesliga Clubs</title>
+  </programme>
+  <programme start="20210802181500 +0100" stop="20210802191500 +0100" channel="elevensports2.pt">
+    <title lang="pt">UEFA Champions League - Man In The Middle</title>
+  </programme>
+  <programme start="20210802191500 +0100" stop="20210802201500 +0100" channel="elevensports2.pt">
+    <title lang="pt">UEFA Champions League - Man In The Middle</title>
+  </programme>
+  <programme start="20210802201500 +0100" stop="20210802230000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Nfl: Saints x Buccaneers</title>
+  </programme>
+  <programme start="20210802230000 +0100" stop="20210802230000 +0100" channel="elevensports2.pt">
+    <title lang="pt">La Liga: Legends El Clasico, Barcelona x Real Madrid</title>
+  </programme>
+  <programme start="20210802230000 +0100" stop="20210803010000 +0100" channel="elevensports2.pt">
+    <title lang="pt">La Liga: Legends El Clasico, Barcelona x Real Madrid</title>
+  </programme>
+  <programme start="20210803010000 +0100" stop="20210803020000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Laliga Talking Footbal</title>
+  </programme>
+  <programme start="20210803020000 +0100" stop="20210803023000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Laliga - Melhores Defesas</title>
+  </programme>
+  <programme start="20210803023000 +0100" stop="20210803050000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Kairat Almaty x Benfica - UEFA Futsal Champions League</title>
+  </programme>
+  <programme start="20210803050000 +0100" stop="20210803070000 +0100" channel="elevensports2.pt">
+    <title lang="pt">A Definir: Blackburn Rovers x Leeds</title>
+  </programme>
+  <programme start="20210803070000 +0100" stop="20210803090000 +0100" channel="elevensports2.pt">
+    <title lang="pt">A Definir: Liverpool x Hertha Berlim</title>
+  </programme>
+  <programme start="20210803090000 +0100" stop="20210803110000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Bundesliga 2: Bremen x Hannover</title>
+  </programme>
+  <programme start="20210803110000 +0100" stop="20210803130000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Ligue 1: Trophée Des Champions - Pré-Jogo Lille x PSG</title>
+  </programme>
+  <programme start="20210803130000 +0100" stop="20210803150000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Jupiler Pro League: Genk x Oostende</title>
+  </programme>
+  <programme start="20210803150000 +0100" stop="20210803170000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Bundesliga 2: Nürnberg x Aue</title>
+  </programme>
+  <programme start="20210803170000 +0100" stop="20210803180000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Ligue 1 A Temporada</title>
+  </programme>
+  <programme start="20210803180000 +0100" stop="20210803181500 +0100" channel="elevensports2.pt">
+    <title lang="pt">Ligue 1 - Perfil Do Clube Época 21/22, PSG</title>
+  </programme>
+  <programme start="20210803181500 +0100" stop="20210803191500 +0100" channel="elevensports2.pt">
+    <title lang="pt">UEFA Champions League - Man In The Middle</title>
+  </programme>
+  <programme start="20210803191500 +0100" stop="20210803201500 +0100" channel="elevensports2.pt">
+    <title lang="pt">UEFA Champions League - Man In The Middle</title>
+  </programme>
+  <programme start="20210803201500 +0100" stop="20210803230000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Nfl: Packers x Buccaneers</title>
+  </programme>
+  <programme start="20210803230000 +0100" stop="20210803230000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Ligue 1: Trophée Des Champions - Pré-Jogo Lille x PSG</title>
+  </programme>
+  <programme start="20210803230000 +0100" stop="20210804010000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Ligue 1: Trophée Des Champions - Pré-Jogo Lille x PSG</title>
+  </programme>
+  <programme start="20210804010000 +0100" stop="20210804020000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Laliga Talking Footbal</title>
+  </programme>
+  <programme start="20210804020000 +0100" stop="20210804030000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Laliga Talking Footbal</title>
+  </programme>
+  <programme start="20210804030000 +0100" stop="20210804050000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Sporting x Sport Club KPRF - UEFA Futsal Champions League</title>
+  </programme>
+  <programme start="20210804050000 +0100" stop="20210804070000 +0100" channel="elevensports2.pt">
+    <title lang="pt">A Definir: Fleetwood Town x Leeds</title>
+  </programme>
+  <programme start="20210804070000 +0100" stop="20210804090000 +0100" channel="elevensports2.pt">
+    <title lang="pt">A Definir: Leeds x Real Betis</title>
+  </programme>
+  <programme start="20210804090000 +0100" stop="20210804110000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Bundesliga 2: Nürnberg x Aue</title>
+  </programme>
+  <programme start="20210804110000 +0100" stop="20210804130000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Jupiler Pro League: Club Brugge x Genk</title>
+  </programme>
+  <programme start="20210804130000 +0100" stop="20210804150000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Scottish Premiership: Motherwell x Hibernian</title>
+  </programme>
+  <programme start="20210804150000 +0100" stop="20210804170000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Bundesliga 2: Paderborn x Nürnberg</title>
+  </programme>
+  <programme start="20210804170000 +0100" stop="20210804181500 +0100" channel="elevensports2.pt">
+    <title lang="pt">Bundesliga Clubs</title>
+  </programme>
+  <programme start="20210804181500 +0100" stop="20210804191500 +0100" channel="elevensports2.pt">
+    <title lang="pt">Momentos Decisivos</title>
+  </programme>
+  <programme start="20210804191500 +0100" stop="20210804201500 +0100" channel="elevensports2.pt">
+    <title lang="pt">Momentos Decisivos</title>
+  </programme>
+  <programme start="20210804201500 +0100" stop="20210804231500 +0100" channel="elevensports2.pt">
+    <title lang="pt">Nfl: Bills x Chiefs</title>
+  </programme>
+  <programme start="20210804231500 +0100" stop="20210804231500 +0100" channel="elevensports2.pt">
+    <title lang="pt">Jupiler Pro League: Club Brugge x Genk</title>
+  </programme>
+  <programme start="20210804231500 +0100" stop="20210805011500 +0100" channel="elevensports2.pt">
+    <title lang="pt">Jupiler Pro League: Club Brugge x Genk</title>
+  </programme>
+  <programme start="20210805011500 +0100" stop="20210805021500 +0100" channel="elevensports2.pt">
+    <title lang="pt">Laliga Talking Footbal</title>
+  </programme>
+  <programme start="20210805021500 +0100" stop="20210805023000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Laliga - Melhor Guarda-Redes</title>
+  </programme>
+  <programme start="20210805023000 +0100" stop="20210805030000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Champions League Extra</title>
+  </programme>
+  <programme start="20210805030000 +0100" stop="20210805050000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Inter FS x Sporting - UEFA Futsal Champions League</title>
+  </programme>
+  <programme start="20210805050000 +0100" stop="20210805070000 +0100" channel="elevensports2.pt">
+    <title lang="pt">A Definir: Leeds x Real Betis</title>
+  </programme>
+  <programme start="20210805070000 +0100" stop="20210805090000 +0100" channel="elevensports2.pt">
+    <title lang="pt">A Definir: Ajax x Leeds</title>
+  </programme>
+  <programme start="20210805090000 +0100" stop="20210805110000 +0100" channel="elevensports2.pt">
+    <title lang="pt">Bundesliga 2: Paderborn x Nürnberg</title>
+  </programme>
+  <programme start="20210805110000 +0100" stop="20210805131500 +0100" channel="elevensports2.pt">
+    <title lang="pt">La Liga: Girona x R. Vallecano - 2ª Mão Final</title>
+  </programme>
+  <programme start="20210805131500 +0100" stop="20210805151500 +0100" channel="elevensports2.pt">
+    <title lang="pt">Jupiler Pro League: Gent x Beerschot</title>
+  </programme>
+  <programme start="20210805151500 +0100" stop="20210805171500 +0100" channel="elevensports2.pt">
+    <title lang="pt">Bundesliga 2: Düsseldorf x Bremen</title>
+  </programme>
+  <programme start="20210805171500 +0100" stop="20210805181500 +0100" channel="elevensports2.pt">
+    <title lang="pt">Triatlo Highlights - Zwift Tri Battle Royale Magazine</title>
+  </programme>
+  <programme start="20210805181500 +0100" stop="20210805191500 +0100" channel="elevensports2.pt">
+    <title lang="pt">Momentos Decisivos</title>
+  </programme>
+  <programme start="20210805191500 +0100" stop="20210805201500 +0100" channel="elevensports2.pt">
+    <title lang="pt">Momentos Decisivos</title>
+  </programme>
+  <programme start="20210730001500 +0100" stop="20210730011500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Motociclismo: Moto 3 - Autodromo Enzo e Dino Ferrari Imola #1</title>
+    <desc lang="pt">Alguns dos pilotos de desenvolvimento das equipas de MotoGP e Superbike em solo italiano, num campeonato emocionante.(n)</desc>
+  </programme>
+  <programme start="20210730011500 +0100" stop="20210730013000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Os melhores Team Radios - Grã-Bretanha 2021</title>
+    <desc lang="pt">Os melhores rádios do GP Grã-Bretanha 2021.(n)</desc>
+  </programme>
+  <programme start="20210730013000 +0100" stop="20210730023000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Motociclismo: Moto 3 - Autodromo Enzo e Dino Ferrari Imola #2</title>
+    <desc lang="pt">Alguns dos pilotos de desenvolvimento das equipas de MotoGP e Superbike em solo italiano, num campeonato emocionante.(n)</desc>
+  </programme>
+  <programme start="20210730023000 +0100" stop="20210730050000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Sem Emissão.(n)</desc>
+  </programme>
+  <programme start="20210730050000 +0100" stop="20210730074500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Sem Emissão.(n)</desc>
+  </programme>
+  <programme start="20210730074500 +0100" stop="20210730090500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: F1 Eleven</title>
+    <desc lang="pt">Análise à atualidade e antevisão ao GP da Hungria.(n)</desc>
+  </programme>
+  <programme start="20210730090500 +0100" stop="20210730100000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Treino Livre - Formula 3 &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+    <desc lang="pt">Acompanhe a sessão de Treinos Livres no regresso da F3 ao Hungaroring.(n)</desc>
+  </programme>
+  <programme start="20210730100000 +0100" stop="20210730103000 +0100" channel="elevensports3.pt">
     <title lang="pt">Automobilismo: Os melhores On Boards - Grã-Bretanha</title>
     <desc lang="pt">As lutas e as ultrapassagens vistas do monocoque.(n)</desc>
   </programme>
-  <programme start="20210728013000 +0100" stop="20210728023000 +0100" channel="elevensports3.pt">
-    <title lang="pt">Motociclismo: Italian Motorbike, Superbike - Marco Simoncelli #2</title>
-    <desc lang="pt">Alguns dos pilotos de desenvolvimento das equipas de MotoGP e Superbike em solo italiano, num campeonato emocionante.(n)</desc>
+  <programme start="20210730103000 +0100" stop="20210730114500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Treinos Livres 1 &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+    <desc lang="pt">O regresso ao Hungaroring no primeiro terço dos Treinos Livres.(n)</desc>
   </programme>
-  <programme start="20210728023000 +0100" stop="20210728050000 +0100" channel="elevensports3.pt">
-    <title lang="pt">Sem Emissão</title>
-    <desc lang="pt">Sem Emissão.(n)</desc>
+  <programme start="20210730114500 +0100" stop="20210730120000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Formula E Melhores Momentos Londres #1</title>
+    <desc lang="pt">Assista aos melhores momentos do E-Prix de Londres.(n)</desc>
   </programme>
-  <programme start="20210728050000 +0100" stop="20210728100000 +0100" channel="elevensports3.pt">
-    <title lang="pt">Sem Emissão</title>
-    <desc lang="pt">Sem Emissão.(n)</desc>
-  </programme>
-  <programme start="20210728100000 +0100" stop="20210728103000 +0100" channel="elevensports3.pt">
-    <title lang="pt">Automobilismo: Formula E Top 10 Momentos</title>
-    <desc lang="pt">Os 10 melhores momentos. Ultrapassagens. Inícios. Reações. Corridas. Incidentes. E muito mais. A única premissa: 10 momentos.(n)</desc>
-  </programme>
-  <programme start="20210728103000 +0100" stop="20210728130000 +0100" channel="elevensports3.pt">
-    <title lang="pt">Automobilismo: Resumo Atlanta Motor Speedway</title>
-    <desc lang="pt">Reveja os melhores momentos da NASCAR CUP Series 2021.(n)</desc>
-  </programme>
-  <programme start="20210728130000 +0100" stop="20210728143000 +0100" channel="elevensports3.pt">
-    <title lang="pt">Automobilismo: GTWC Europa - Zandvoort Corrida 1</title>
-    <desc lang="pt">Assista ao GTWC Europa - Zandvoort Corrida 1.(n)</desc>
-  </programme>
-  <programme start="20210728143000 +0100" stop="20210728144500 +0100" channel="elevensports3.pt">
-    <title lang="pt">Automobilismo: Formula E Melhores Momentos Nova Iorque #2</title>
-    <desc lang="pt">Assista aos melhores momentos do E-Prix de Nova Iorque.(n)</desc>
-  </programme>
-  <programme start="20210728144500 +0100" stop="20210728153000 +0100" channel="elevensports3.pt">
-    <title lang="pt">Automobilismo: GP Estíria - Corrida - Porsche SuperCup</title>
-    <desc lang="pt">Acompanhe a 2.ª corrida da temporada com a narração de Miguel Roriz.(n)</desc>
-  </programme>
-  <programme start="20210728153000 +0100" stop="20210728163000 +0100" channel="elevensports3.pt">
-    <title lang="pt">Motociclismo: Superbike - Autodromo Enzo e Dino Ferrari Imola #1</title>
-    <desc lang="pt">Alguns dos pilotos de desenvolvimento das equipas de MotoGP e Superbike em solo italiano, num campeonato emocionante.(n)</desc>
-  </programme>
-  <programme start="20210728163000 +0100" stop="20210728170000 +0100" channel="elevensports3.pt">
-    <title lang="pt">Automobilismo: GP Confidential</title>
-    <desc lang="pt">Conheça as histórias das principais figuras da Formula 1. Com entrevistas exclusivas e imagens inéditas da maior competição motorizada do mundo.(n)</desc>
-  </programme>
-  <programme start="20210728170000 +0100" stop="20210728181500 +0100" channel="elevensports3.pt">
-    <title lang="pt">Automobilismo: E-Prix Londres - Corrida #1 - Formula E</title>
-    <desc lang="pt">Assista a Formula E, E-Prix Londres - Corrida 1.(n)</desc>
-  </programme>
-  <programme start="20210728181500 +0100" stop="20210728200000 +0100" channel="elevensports3.pt">
-    <title lang="pt">Automobilismo: Resumo F1 2021, GP Áustria</title>
-    <desc lang="pt">Reveja os melhores momentos do GP da ....... de 2020.(n)</desc>
-  </programme>
-  <programme start="20210728200000 +0100" stop="20210728210000 +0100" channel="elevensports3.pt">
-    <title lang="pt">Automobilismo: GP Áustria - Corrida 2 - Formula 3</title>
-    <desc lang="pt">Nada melhor do que uma corrida de Fórmula 3 para fechar o dia no Red Bull Ring.(n)</desc>
-  </programme>
-  <programme start="20210728210000 +0100" stop="20210728213000 +0100" channel="elevensports3.pt">
+  <programme start="20210730120000 +0100" stop="20210730125000 +0100" channel="elevensports3.pt">
     <title lang="pt">Automobilismo: Fora de Estrada</title>
     <desc lang="pt">Esta edição do Fora de Estrada começa na Rússia onde se disputou o Silk Way Rally etapa dos mundiais de Cross Country que contou com a participação dos portugueses Joaquim Rodrigues e Sebastian Bühler. Continuamos em Portugal com a reportagem do Guarda Racing Days ganho por Miguel Correia aos comandos de um Can-Am. Terminamos o programa na Arábia Saudita com o lançamento da edição de 2022 do Rally Dakar.(n)</desc>
   </programme>
-  <programme start="20210728213000 +0100" stop="20210728214500 +0100" channel="elevensports3.pt">
-    <title lang="pt">Automobilismo: Formula E Melhores Momentos Londres #2</title>
-    <desc lang="pt">Assista ao Formula E, Melhores Momentos Londres #2.(n)</desc>
+  <programme start="20210730125000 +0100" stop="20210730140000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Qualificação - Formula 3 &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+    <desc lang="pt">A emoção da luta pela pole position mas também por posições importantes para a primeira corrida de sábado.(n)</desc>
   </programme>
-  <programme start="20210728214500 +0100" stop="20210728221500 +0100" channel="elevensports3.pt">
-    <title lang="pt">Automobilismo: TCR - Inside The World of TCR</title>
-    <desc lang="pt">Disciplina multimarca para carros de turismo com as regras TCR, campeonato que está presente em mais de 30 países.(n)</desc>
+  <programme start="20210730140000 +0100" stop="20210730151500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Treinos Livres 2 &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+    <desc lang="pt">Chegou a altura de simular ritmos de corrida e de qualificação.(n)</desc>
   </programme>
-  <programme start="20210728221500 +0100" stop="20210728223000 +0100" channel="elevensports3.pt">
+  <programme start="20210730151500 +0100" stop="20210730162500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Qualificação - Formula 3</title>
+    <desc lang="pt">A emoção da luta pela pole position mas também por posições importantes para a primeira corrida de sábado.(n)</desc>
+  </programme>
+  <programme start="20210730162500 +0100" stop="20210730171500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Treino Livre - Porsche SuperCup &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+    <desc lang="pt">Acompanhe a sessão de Treinos Livres no regresso da Porsche Supercup ao Hungaroring.(n)</desc>
+  </programme>
+  <programme start="20210730171500 +0100" stop="20210730173000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Formula E Melhores Momentos Londres #1</title>
+    <desc lang="pt">Assista aos melhores momentos do E-Prix de Londres.(n)</desc>
+  </programme>
+  <programme start="20210730173000 +0100" stop="20210730184500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Treinos Livres 2</title>
+    <desc lang="pt">Chegou a altura de simular ritmos de corrida e de qualificação.(n)</desc>
+  </programme>
+  <programme start="20210730184500 +0100" stop="20210730194500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Treino Livre - Porsche SuperCup</title>
+    <desc lang="pt">Acompanhe a sessão de Treinos Livres no regresso da Porsche Supercup ao Hungaroring.(n)</desc>
+  </programme>
+  <programme start="20210730194500 +0100" stop="20210730214500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Genk x Oostende - Jupiler Pro League &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+    <desc lang="pt">Assista ao jogo da Jupiler Pro League entre Genk x Oostende.(n)</desc>
+  </programme>
+  <programme start="20210730214500 +0100" stop="20210730230000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Treinos Livres 2</title>
+    <desc lang="pt">Chegou a altura de simular ritmos de corrida e de qualificação.(n)</desc>
+  </programme>
+  <programme start="20210730230000 +0100" stop="20210730231500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Formula E Melhores Momentos Londres #1</title>
+    <desc lang="pt">Assista aos melhores momentos do E-Prix de Londres.(n)</desc>
+  </programme>
+  <programme start="20210730231500 +0100" stop="20210730231500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Qualificação - Formula 3</title>
+    <desc lang="pt">A emoção da luta pela pole position mas também por posições importantes para a primeira corrida de sábado.(n)</desc>
+  </programme>
+  <programme start="20210730231500 +0100" stop="20210731001500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Qualificação - Formula 3</title>
+    <desc lang="pt">A emoção da luta pela pole position mas também por posições importantes para a primeira corrida de sábado.(n)</desc>
+  </programme>
+  <programme start="20210731001500 +0100" stop="20210731011500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Motociclismo: Moto 3 - Autodromo Enzo e Dino Ferrari Imola #2</title>
+    <desc lang="pt">Alguns dos pilotos de desenvolvimento das equipas de MotoGP e Superbike em solo italiano, num campeonato emocionante.(n)</desc>
+  </programme>
+  <programme start="20210731011500 +0100" stop="20210731013000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Formula E Melhores Momentos Londres #1</title>
+    <desc lang="pt">Assista aos melhores momentos do E-Prix de Londres.(n)</desc>
+  </programme>
+  <programme start="20210731013000 +0100" stop="20210731023000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Motociclismo: Superbike - Autodromo Enzo e Dino Ferrari Imola #1</title>
+    <desc lang="pt">Alguns dos pilotos de desenvolvimento das equipas de MotoGP e Superbike em solo italiano, num campeonato emocionante.(n)</desc>
+  </programme>
+  <programme start="20210731023000 +0100" stop="20210731050000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Sem Emissão.(n)</desc>
+  </programme>
+  <programme start="20210731050000 +0100" stop="20210731081500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Sem Emissão.(n)</desc>
+  </programme>
+  <programme start="20210731081500 +0100" stop="20210731093500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Qualificação - Formula 3</title>
+    <desc lang="pt">A emoção da luta pela pole position mas também por posições importantes para a primeira corrida de sábado.(n)</desc>
+  </programme>
+  <programme start="20210731093500 +0100" stop="20210731103000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Corrida 1 - Formula 3 &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+    <desc lang="pt">Grelha invertida para os 12 primeiros da qualificação e a primeira de 3 corridas.(n)</desc>
+  </programme>
+  <programme start="20210731103000 +0100" stop="20210731110000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Formula E Melhores Momentos Londres #1</title>
+    <desc lang="pt">Assista aos melhores momentos do E-Prix de Londres.(n)</desc>
+  </programme>
+  <programme start="20210731110000 +0100" stop="20210731121500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Treinos Livres 3 &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+    <desc lang="pt">As últimas afinações antes da qualificação.(n)</desc>
+  </programme>
+  <programme start="20210731121500 +0100" stop="20210731125500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: The Pace Lap</title>
+    <desc lang="pt">A atualidade da NASCAR CUP SERIES em análise.(n)</desc>
+  </programme>
+  <programme start="20210731125500 +0100" stop="20210731140000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Qualificação - Porsche SuperCup &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+    <desc lang="pt">Conseguirá Larry ten Voorde conquistar a 3.ª pole da temporada? Ou será que Jaxon Evans alcança o piloto líder do campeonato.(n)</desc>
+  </programme>
+  <programme start="20210731140000 +0100" stop="20210731150000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Qualificação &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+    <desc lang="pt">Quem conquista a pole position, no 36.º GP da Hungria.(n)</desc>
+  </programme>
+  <programme start="20210731150000 +0100" stop="20210731151500 +0100" channel="elevensports3.pt">
     <title lang="pt">Automobilismo: Os melhores On Boards - Grã-Bretanha</title>
     <desc lang="pt">As lutas e as ultrapassagens vistas do monocoque.(n)</desc>
   </programme>
-  <programme start="20210728223000 +0100" stop="20210728233000 +0100" channel="elevensports3.pt">
-    <title lang="pt">Automobilismo: GP Áustria - Corrida - Porsche SuperCup</title>
-    <desc lang="pt">Larry tem Voorde dominou a primeira corrida da temporada. Conseguirá dominar a segunda.(n)</desc>
+  <programme start="20210731151500 +0100" stop="20210731161500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Corrida 1 - Formula 3</title>
+    <desc lang="pt">Grelha invertida para os 12 primeiros da qualificação e a primeira de 3 corridas.(n)</desc>
   </programme>
-  <programme start="20210728010000 +0100" stop="20210728050000 +0100" channel="elevensports4.pt">
+  <programme start="20210731161500 +0100" stop="20210731163000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Os melhores Team Radios - Grã-Bretanha 2021</title>
+    <desc lang="pt">Os melhores rádios do GP Grã-Bretanha 2021.(n)</desc>
+  </programme>
+  <programme start="20210731163000 +0100" stop="20210731165500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Formula E Melhores Momentos Londres #1</title>
+    <desc lang="pt">Assista aos melhores momentos do E-Prix de Londres.(n)</desc>
+  </programme>
+  <programme start="20210731165500 +0100" stop="20210731180000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Corrida 2 - Formula 3</title>
+    <desc lang="pt">Depois da corrida da manhã, altura para a corrida da tarde, com inversão dos primeiros 12 lugares.(n)</desc>
+  </programme>
+  <programme start="20210731180000 +0100" stop="20210731190000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Qualificação</title>
+    <desc lang="pt">Quem conquista a pole position, no 36.º GP da Hungria.(n)</desc>
+  </programme>
+  <programme start="20210731190000 +0100" stop="20210731191500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Formula E Melhores Momentos Londres #2</title>
+    <desc lang="pt">Assista ao Formula E, Melhores Momentos Londres #2.(n)</desc>
+  </programme>
+  <programme start="20210731191500 +0100" stop="20210731193000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Os melhores On Boards - Grã-Bretanha</title>
+    <desc lang="pt">As lutas e as ultrapassagens vistas do monocoque.(n)</desc>
+  </programme>
+  <programme start="20210731193000 +0100" stop="20210731203000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Motociclismo: Moto 3, Misano World Circuit “Marco Simoncelli” #1</title>
+    <desc lang="pt">Assista ao Italian Motorbike.(n)</desc>
+  </programme>
+  <programme start="20210731203000 +0100" stop="20210731213000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Motociclismo: Superbike, Misano World Circuit “Marco Simoncelli” #1</title>
+    <desc lang="pt">Assista ao Italian Motorbike.(n)</desc>
+  </programme>
+  <programme start="20210731213000 +0100" stop="20210731223000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Qualificação</title>
+    <desc lang="pt">Quem conquista a pole position, no 36.º GP da Hungria.(n)</desc>
+  </programme>
+  <programme start="20210731223000 +0100" stop="20210731224500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Formula E Melhores Momentos Londres #1</title>
+    <desc lang="pt">Assista aos melhores momentos do E-Prix de Londres.(n)</desc>
+  </programme>
+  <programme start="20210731224500 +0100" stop="20210731231500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: The Pace Lap</title>
+    <desc lang="pt">A atualidade da NASCAR CUP SERIES em análise.(n)</desc>
+  </programme>
+  <programme start="20210731231500 +0100" stop="20210731231500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Corrida 2 - Formula 3</title>
+    <desc lang="pt">Depois da corrida da manhã, altura para a corrida da tarde, com inversão dos primeiros 12 lugares.(n)</desc>
+  </programme>
+  <programme start="20210731231500 +0100" stop="20210801001500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Corrida 2 - Formula 3</title>
+  </programme>
+  <programme start="20210801001500 +0100" stop="20210801011500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Motociclismo: Moto 3, Misano World Circuit “Marco Simoncelli” #1</title>
+  </programme>
+  <programme start="20210801011500 +0100" stop="20210801021500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Motociclismo: Superbike, Misano World Circuit “Marco Simoncelli” #1</title>
+  </programme>
+  <programme start="20210801021500 +0100" stop="20210801023000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Os melhores On Boards - Grã-Bretanha</title>
+  </programme>
+  <programme start="20210801023000 +0100" stop="20210801050000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210801050000 +0100" stop="20210801083000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210801083000 +0100" stop="20210801094500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Corrida 2 - Formula 3</title>
+  </programme>
+  <programme start="20210801094500 +0100" stop="20210801111000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Corrida 3 - Formula 3 &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+  </programme>
+  <programme start="20210801111000 +0100" stop="20210801120000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Corrida - Porsche SuperCup &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+  </programme>
+  <programme start="20210801120000 +0100" stop="20210801140000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: F1 Eleven T2 - Pré-corrida GP Hungria &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+  </programme>
+  <programme start="20210801140000 +0100" stop="20210801153000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Grande Prémio da Hungria 2021 &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+  </programme>
+  <programme start="20210801153000 +0100" stop="20210801163000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: F1 Eleven T2 - Pós-corrida GP Hungria &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+  </programme>
+  <programme start="20210801163000 +0100" stop="20210801173000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Motociclismo: Moto 3, Misano World Circuit “Marco Simoncelli” #2</title>
+  </programme>
+  <programme start="20210801173000 +0100" stop="20210801193000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Gent x Beerschot - Jupiler Pro League &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+  </programme>
+  <programme start="20210801193000 +0100" stop="20210801203000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Motociclismo: Moto 3, Misano World Circuit “Marco Simoncelli” #2</title>
+  </programme>
+  <programme start="20210801203000 +0100" stop="20210801210000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: The Pace Lap</title>
+  </programme>
+  <programme start="20210801210000 +0100" stop="20210801224500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Grande Prémio da Hungria 2021</title>
+  </programme>
+  <programme start="20210801224500 +0100" stop="20210801231500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Baquet</title>
+  </programme>
+  <programme start="20210801231500 +0100" stop="20210801231500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Corrida 3 - Formula 3</title>
+  </programme>
+  <programme start="20210801231500 +0100" stop="20210802001500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Corrida 3 - Formula 3</title>
+  </programme>
+  <programme start="20210802001500 +0100" stop="20210802011500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Motociclismo: Superbike, Misano World Circuit “Marco Simoncelli” #2</title>
+  </programme>
+  <programme start="20210802011500 +0100" stop="20210802021500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Motociclismo: Moto 3, Misano World Circuit “Marco Simoncelli” #2</title>
+  </programme>
+  <programme start="20210802021500 +0100" stop="20210802023000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Formula E Melhores Momentos Londres #2</title>
+  </programme>
+  <programme start="20210802023000 +0100" stop="20210802050000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210802050000 +0100" stop="20210802100000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210802100000 +0100" stop="20210802110000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Motociclismo: Superbike, Misano World Circuit “Marco Simoncelli” #1</title>
+  </programme>
+  <programme start="20210802110000 +0100" stop="20210802123000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Resumo F1 2021, GP Estíria</title>
+  </programme>
+  <programme start="20210802123000 +0100" stop="20210802124500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Formula E Melhores Momentos Londres #1</title>
+  </programme>
+  <programme start="20210802124500 +0100" stop="20210802134500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Corrida 1 - Formula 3</title>
+  </programme>
+  <programme start="20210802134500 +0100" stop="20210802140000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Os melhores Team Radios - Grã-Bretanha 2021</title>
+  </programme>
+  <programme start="20210802140000 +0100" stop="20210802150000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Corrida 2 - Formula 3</title>
+  </programme>
+  <programme start="20210802150000 +0100" stop="20210802151500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Formula E Melhores Momentos Londres #2</title>
+  </programme>
+  <programme start="20210802151500 +0100" stop="20210802161500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Corrida 3 - Formula 3</title>
+  </programme>
+  <programme start="20210802161500 +0100" stop="20210802163000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Os melhores On Boards - Grã-Bretanha</title>
+  </programme>
+  <programme start="20210802163000 +0100" stop="20210802173000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Corrida - Porsche SuperCup</title>
+  </programme>
+  <programme start="20210802173000 +0100" stop="20210802180000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: TCR - Inside The World of TCR</title>
+  </programme>
+  <programme start="20210802180000 +0100" stop="20210802190000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: TCR Spa Round 7 - TCR</title>
+  </programme>
+  <programme start="20210802190000 +0100" stop="20210802200000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: TCR Spa Round 8 - TCR</title>
+  </programme>
+  <programme start="20210802200000 +0100" stop="20210802201500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Formula E Melhores Momentos Londres #1</title>
+  </programme>
+  <programme start="20210802201500 +0100" stop="20210802204500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Fora de Estrada</title>
+  </programme>
+  <programme start="20210802204500 +0100" stop="20210802210000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Formula E Melhores Momentos Londres #2</title>
+  </programme>
+  <programme start="20210802210000 +0100" stop="20210802224500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Grande Prémio da Hungria 2021</title>
+  </programme>
+  <programme start="20210802224500 +0100" stop="20210802230000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Os melhores On Boards - Grã-Bretanha</title>
+  </programme>
+  <programme start="20210802230000 +0100" stop="20210803000000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Corrida - Porsche SuperCup</title>
+  </programme>
+  <programme start="20210803000000 +0100" stop="20210803230000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Resumo Nashville Superspeedway</title>
+  </programme>
+  <programme start="20210803230000 +0100" stop="20210804000000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Corrida - Porsche SuperCup</title>
+  </programme>
+  <programme start="20210804000000 +0100" stop="20210804023000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Resumo Nashville Superspeedway</title>
+  </programme>
+  <programme start="20210804023000 +0100" stop="20210804050000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210804050000 +0100" stop="20210804100000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210804100000 +0100" stop="20210804110000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Motociclismo: Superbike, Misano World Circuit “Marco Simoncelli” #2</title>
+  </programme>
+  <programme start="20210804110000 +0100" stop="20210804124500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Resumo F1 2021, GP Áustria</title>
+  </programme>
+  <programme start="20210804124500 +0100" stop="20210804134500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Corrida 2 - Formula 3</title>
+  </programme>
+  <programme start="20210804134500 +0100" stop="20210804140000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Os melhores On Boards Bahrain 2021</title>
+  </programme>
+  <programme start="20210804140000 +0100" stop="20210804150000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Corrida 3 - Formula 3</title>
+  </programme>
+  <programme start="20210804150000 +0100" stop="20210804151500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Os melhores Team Radios - Grã-Bretanha 2021</title>
+  </programme>
+  <programme start="20210804151500 +0100" stop="20210804163000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Grã-Bretanha - Corrida Sprint 1 - Formula 2</title>
+  </programme>
+  <programme start="20210804163000 +0100" stop="20210804173000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Motociclismo: Superbike, Misano World Circuit “Marco Simoncelli” #1</title>
+  </programme>
+  <programme start="20210804173000 +0100" stop="20210804183000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Motociclismo: Superbike, Misano World Circuit “Marco Simoncelli” #2</title>
+  </programme>
+  <programme start="20210804183000 +0100" stop="20210804193000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Hungria - Corrida 1 - Formula 3</title>
+  </programme>
+  <programme start="20210804193000 +0100" stop="20210804194500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Formula E Melhores Momentos Londres #1</title>
+  </programme>
+  <programme start="20210804194500 +0100" stop="20210804210000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: GP Grã-Bretanha - Corrida Sprint 1 - Formula 2</title>
+  </programme>
+  <programme start="20210804210000 +0100" stop="20210804221500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: E-Prix Londres - Corrida #1 - Formula E</title>
+  </programme>
+  <programme start="20210804221500 +0100" stop="20210804224500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Fora de Estrada</title>
+  </programme>
+  <programme start="20210804224500 +0100" stop="20210804231500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Formula E Top 10 Momentos</title>
+  </programme>
+  <programme start="20210804231500 +0100" stop="20210804234500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Baquet</title>
+  </programme>
+  <programme start="20210804234500 +0100" stop="20210805000000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Formula E Melhores Momentos Nova Iorque #2</title>
+  </programme>
+  <programme start="20210805000000 +0100" stop="20210805234500 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Resumo Pocono Raceway 1</title>
+  </programme>
+  <programme start="20210805234500 +0100" stop="20210806000000 +0100" channel="elevensports3.pt">
+    <title lang="pt">Automobilismo: Formula E Melhores Momentos Nova Iorque #2</title>
+  </programme>
+  <programme start="20210730010000 +0100" stop="20210730050000 +0100" channel="elevensports4.pt">
     <title lang="pt">Sem Emissão</title>
     <desc lang="pt">Sem Emissão.(n)</desc>
   </programme>
-  <programme start="20210728050000 +0100" stop="20210728090000 +0100" channel="elevensports4.pt">
+  <programme start="20210730050000 +0100" stop="20210730090000 +0100" channel="elevensports4.pt">
     <title lang="pt">Sem Emissão</title>
     <desc lang="pt">Sem Emissão.(n)</desc>
   </programme>
-  <programme start="20210728090000 +0100" stop="20210728130000 +0100" channel="elevensports4.pt">
+  <programme start="20210730090000 +0100" stop="20210730130000 +0100" channel="elevensports4.pt">
     <title lang="pt">Sem Emissão</title>
     <desc lang="pt">Sem Emissão.(n)</desc>
   </programme>
-  <programme start="20210728130000 +0100" stop="20210728170000 +0100" channel="elevensports4.pt">
+  <programme start="20210730130000 +0100" stop="20210730170000 +0100" channel="elevensports4.pt">
     <title lang="pt">Sem Emissão</title>
     <desc lang="pt">Sem Emissão.(n)</desc>
   </programme>
-  <programme start="20210728170000 +0100" stop="20210728210000 +0100" channel="elevensports4.pt">
+  <programme start="20210730170000 +0100" stop="20210730210000 +0100" channel="elevensports4.pt">
     <title lang="pt">Sem Emissão</title>
     <desc lang="pt">Sem Emissão.(n)</desc>
   </programme>
-  <programme start="20210728000000 +0100" stop="20210728020000 +0100" channel="elevensports5.pt">
+  <programme start="20210730210000 +0100" stop="20210730210000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Sem Emissão.(n)</desc>
+  </programme>
+  <programme start="20210730210000 +0100" stop="20210731010000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Sem Emissão.(n)</desc>
+  </programme>
+  <programme start="20210731010000 +0100" stop="20210731050000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Sem Emissão.(n)</desc>
+  </programme>
+  <programme start="20210731050000 +0100" stop="20210731090000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Sem Emissão.(n)</desc>
+  </programme>
+  <programme start="20210731090000 +0100" stop="20210731130000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Sem Emissão.(n)</desc>
+  </programme>
+  <programme start="20210731130000 +0100" stop="20210731170000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Sem Emissão.(n)</desc>
+  </programme>
+  <programme start="20210731170000 +0100" stop="20210731210000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Sem Emissão.(n)</desc>
+  </programme>
+  <programme start="20210731210000 +0100" stop="20210731210000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Sem Emissão.(n)</desc>
+  </programme>
+  <programme start="20210731210000 +0100" stop="20210801020000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210801020000 +0100" stop="20210801050000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210801050000 +0100" stop="20210801090000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210801090000 +0100" stop="20210801130000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210801130000 +0100" stop="20210801170000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210801170000 +0100" stop="20210801210000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210801210000 +0100" stop="20210801210000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210801210000 +0100" stop="20210802010000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210802010000 +0100" stop="20210802050000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210802050000 +0100" stop="20210802090000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210802090000 +0100" stop="20210802130000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210802130000 +0100" stop="20210802170000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210802170000 +0100" stop="20210802210000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210802210000 +0100" stop="20210802210000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210802210000 +0100" stop="20210803010000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210803010000 +0100" stop="20210803050000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210803050000 +0100" stop="20210803090000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210803090000 +0100" stop="20210803130000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210803130000 +0100" stop="20210803170000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210803170000 +0100" stop="20210803210000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210803210000 +0100" stop="20210803210000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210803210000 +0100" stop="20210804010000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210804010000 +0100" stop="20210804050000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210804050000 +0100" stop="20210804090000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210804090000 +0100" stop="20210804130000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210804130000 +0100" stop="20210804170000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210804170000 +0100" stop="20210804210000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210804210000 +0100" stop="20210804210000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210804210000 +0100" stop="20210805010000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210805010000 +0100" stop="20210805050000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210805050000 +0100" stop="20210805090000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210805090000 +0100" stop="20210805130000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210805130000 +0100" stop="20210805170000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210805170000 +0100" stop="20210805210000 +0100" channel="elevensports4.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20210730000000 +0100" stop="20210730020000 +0100" channel="elevensports5.pt">
     <title lang="pt">Eleven 5</title>
     <desc lang="pt">Eleven 5.(n)</desc>
   </programme>
-  <programme start="20210728020000 +0100" stop="20210728040000 +0100" channel="elevensports5.pt">
+  <programme start="20210730020000 +0100" stop="20210730040000 +0100" channel="elevensports5.pt">
     <title lang="pt">Eleven 5</title>
     <desc lang="pt">Eleven 5.(n)</desc>
   </programme>
-  <programme start="20210728040000 +0100" stop="20210728060000 +0100" channel="elevensports5.pt">
+  <programme start="20210730040000 +0100" stop="20210730060000 +0100" channel="elevensports5.pt">
     <title lang="pt">Eleven 5</title>
     <desc lang="pt">Eleven 5.(n)</desc>
   </programme>
-  <programme start="20210728060000 +0100" stop="20210728080000 +0100" channel="elevensports5.pt">
+  <programme start="20210730060000 +0100" stop="20210730080000 +0100" channel="elevensports5.pt">
     <title lang="pt">Eleven 5</title>
     <desc lang="pt">Eleven 5.(n)</desc>
   </programme>
-  <programme start="20210728080000 +0100" stop="20210728100000 +0100" channel="elevensports5.pt">
+  <programme start="20210730080000 +0100" stop="20210730100000 +0100" channel="elevensports5.pt">
     <title lang="pt">Eleven 5</title>
     <desc lang="pt">Eleven 5.(n)</desc>
   </programme>
-  <programme start="20210728100000 +0100" stop="20210728120000 +0100" channel="elevensports5.pt">
+  <programme start="20210730100000 +0100" stop="20210730120000 +0100" channel="elevensports5.pt">
     <title lang="pt">Eleven 5</title>
     <desc lang="pt">Eleven 5.(n)</desc>
   </programme>
-  <programme start="20210728120000 +0100" stop="20210728140000 +0100" channel="elevensports5.pt">
+  <programme start="20210730120000 +0100" stop="20210730140000 +0100" channel="elevensports5.pt">
     <title lang="pt">Eleven 5</title>
     <desc lang="pt">Eleven 5.(n)</desc>
   </programme>
-  <programme start="20210728140000 +0100" stop="20210728160000 +0100" channel="elevensports5.pt">
+  <programme start="20210730140000 +0100" stop="20210730160000 +0100" channel="elevensports5.pt">
     <title lang="pt">Eleven 5</title>
     <desc lang="pt">Eleven 5.(n)</desc>
   </programme>
-  <programme start="20210728160000 +0100" stop="20210728180000 +0100" channel="elevensports5.pt">
+  <programme start="20210730160000 +0100" stop="20210730180000 +0100" channel="elevensports5.pt">
     <title lang="pt">Eleven 5</title>
     <desc lang="pt">Eleven 5.(n)</desc>
   </programme>
-  <programme start="20210728180000 +0100" stop="20210728200000 +0100" channel="elevensports5.pt">
+  <programme start="20210730180000 +0100" stop="20210730200000 +0100" channel="elevensports5.pt">
     <title lang="pt">Eleven 5</title>
     <desc lang="pt">Eleven 5.(n)</desc>
   </programme>
-  <programme start="20210728200000 +0100" stop="20210728220000 +0100" channel="elevensports5.pt">
+  <programme start="20210730200000 +0100" stop="20210730220000 +0100" channel="elevensports5.pt">
     <title lang="pt">Eleven 5</title>
     <desc lang="pt">Eleven 5.(n)</desc>
   </programme>
-  <programme start="20210728220000 +0100" stop="20210729000000 +0100" channel="elevensports5.pt">
+  <programme start="20210730220000 +0100" stop="20210731000000 +0100" channel="elevensports5.pt">
     <title lang="pt">Eleven 5</title>
     <desc lang="pt">Eleven 5.(n)</desc>
   </programme>
-  <programme start="20210728000000 +0100" stop="20210728020000 +0100" channel="elevensports6.pt">
+  <programme start="20210731000000 +0100" stop="20210731220000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+    <desc lang="pt">Eleven 5.(n)</desc>
+  </programme>
+  <programme start="20210731220000 +0100" stop="20210801000000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210801000000 +0100" stop="20210801020000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210801020000 +0100" stop="20210801040000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210801040000 +0100" stop="20210801060000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210801060000 +0100" stop="20210801080000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210801080000 +0100" stop="20210801100000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210801100000 +0100" stop="20210801120000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210801120000 +0100" stop="20210801140000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210801140000 +0100" stop="20210801160000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210801160000 +0100" stop="20210801180000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210801180000 +0100" stop="20210801200000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210801200000 +0100" stop="20210801220000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210801220000 +0100" stop="20210802000000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210802000000 +0100" stop="20210802220000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210802220000 +0100" stop="20210803000000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210803000000 +0100" stop="20210803020000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210803020000 +0100" stop="20210803040000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210803040000 +0100" stop="20210803060000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210803060000 +0100" stop="20210803080000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210803080000 +0100" stop="20210803100000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210803100000 +0100" stop="20210803120000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210803120000 +0100" stop="20210803140000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210803140000 +0100" stop="20210803160000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210803160000 +0100" stop="20210803180000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210803180000 +0100" stop="20210803200000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210803200000 +0100" stop="20210803220000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210803220000 +0100" stop="20210804000000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210804000000 +0100" stop="20210804220000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210804220000 +0100" stop="20210805000000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210805000000 +0100" stop="20210805020000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210805020000 +0100" stop="20210805040000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210805040000 +0100" stop="20210805060000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210805060000 +0100" stop="20210805080000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210805080000 +0100" stop="20210805100000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210805100000 +0100" stop="20210805120000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210805120000 +0100" stop="20210805140000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210805140000 +0100" stop="20210805160000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210805160000 +0100" stop="20210805180000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210805180000 +0100" stop="20210805200000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210805200000 +0100" stop="20210805220000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210805220000 +0100" stop="20210806000000 +0100" channel="elevensports5.pt">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20210730000000 +0100" stop="20210730020000 +0100" channel="elevensports6.pt">
     <title lang="pt">ELEVEN 6</title>
     <desc lang="pt">ELEVEN 6.(n)</desc>
   </programme>
-  <programme start="20210728020000 +0100" stop="20210728040000 +0100" channel="elevensports6.pt">
+  <programme start="20210730020000 +0100" stop="20210730040000 +0100" channel="elevensports6.pt">
     <title lang="pt">ELEVEN 6</title>
     <desc lang="pt">ELEVEN 6.(n)</desc>
   </programme>
-  <programme start="20210728040000 +0100" stop="20210728060000 +0100" channel="elevensports6.pt">
+  <programme start="20210730040000 +0100" stop="20210730060000 +0100" channel="elevensports6.pt">
     <title lang="pt">ELEVEN 6</title>
     <desc lang="pt">ELEVEN 6.(n)</desc>
   </programme>
-  <programme start="20210728060000 +0100" stop="20210728080000 +0100" channel="elevensports6.pt">
+  <programme start="20210730060000 +0100" stop="20210730080000 +0100" channel="elevensports6.pt">
     <title lang="pt">ELEVEN 6</title>
     <desc lang="pt">ELEVEN 6.(n)</desc>
   </programme>
-  <programme start="20210728080000 +0100" stop="20210728100000 +0100" channel="elevensports6.pt">
+  <programme start="20210730080000 +0100" stop="20210730100000 +0100" channel="elevensports6.pt">
     <title lang="pt">ELEVEN 6</title>
     <desc lang="pt">ELEVEN 6.(n)</desc>
   </programme>
-  <programme start="20210728100000 +0100" stop="20210728120000 +0100" channel="elevensports6.pt">
+  <programme start="20210730100000 +0100" stop="20210730120000 +0100" channel="elevensports6.pt">
     <title lang="pt">ELEVEN 6</title>
     <desc lang="pt">ELEVEN 6.(n)</desc>
   </programme>
-  <programme start="20210728120000 +0100" stop="20210728140000 +0100" channel="elevensports6.pt">
+  <programme start="20210730120000 +0100" stop="20210730140000 +0100" channel="elevensports6.pt">
     <title lang="pt">ELEVEN 6</title>
     <desc lang="pt">ELEVEN 6.(n)</desc>
   </programme>
-  <programme start="20210728140000 +0100" stop="20210728160000 +0100" channel="elevensports6.pt">
+  <programme start="20210730140000 +0100" stop="20210730160000 +0100" channel="elevensports6.pt">
     <title lang="pt">ELEVEN 6</title>
     <desc lang="pt">ELEVEN 6.(n)</desc>
   </programme>
-  <programme start="20210728160000 +0100" stop="20210728180000 +0100" channel="elevensports6.pt">
+  <programme start="20210730160000 +0100" stop="20210730180000 +0100" channel="elevensports6.pt">
     <title lang="pt">ELEVEN 6</title>
     <desc lang="pt">ELEVEN 6.(n)</desc>
   </programme>
-  <programme start="20210728180000 +0100" stop="20210728200000 +0100" channel="elevensports6.pt">
+  <programme start="20210730180000 +0100" stop="20210730200000 +0100" channel="elevensports6.pt">
     <title lang="pt">ELEVEN 6</title>
     <desc lang="pt">ELEVEN 6.(n)</desc>
   </programme>
-  <programme start="20210728200000 +0100" stop="20210728220000 +0100" channel="elevensports6.pt">
+  <programme start="20210730200000 +0100" stop="20210730220000 +0100" channel="elevensports6.pt">
     <title lang="pt">ELEVEN 6</title>
     <desc lang="pt">ELEVEN 6.(n)</desc>
   </programme>
-  <programme start="20210728220000 +0100" stop="20210729000000 +0100" channel="elevensports6.pt">
+  <programme start="20210730220000 +0100" stop="20210731000000 +0100" channel="elevensports6.pt">
     <title lang="pt">ELEVEN 6</title>
     <desc lang="pt">ELEVEN 6.(n)</desc>
+  </programme>
+  <programme start="20210731000000 +0100" stop="20210731220000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+    <desc lang="pt">ELEVEN 6.(n)</desc>
+  </programme>
+  <programme start="20210731220000 +0100" stop="20210801000000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210801000000 +0100" stop="20210801020000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210801020000 +0100" stop="20210801040000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210801040000 +0100" stop="20210801060000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210801060000 +0100" stop="20210801080000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210801080000 +0100" stop="20210801100000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210801100000 +0100" stop="20210801120000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210801120000 +0100" stop="20210801140000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210801140000 +0100" stop="20210801160000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210801160000 +0100" stop="20210801180000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210801180000 +0100" stop="20210801200000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210801200000 +0100" stop="20210801220000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210801220000 +0100" stop="20210802000000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210802000000 +0100" stop="20210802220000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210802220000 +0100" stop="20210803000000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210803000000 +0100" stop="20210803020000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210803020000 +0100" stop="20210803040000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210803040000 +0100" stop="20210803060000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210803060000 +0100" stop="20210803080000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210803080000 +0100" stop="20210803100000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210803100000 +0100" stop="20210803120000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210803120000 +0100" stop="20210803140000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210803140000 +0100" stop="20210803160000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210803160000 +0100" stop="20210803180000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210803180000 +0100" stop="20210803200000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210803200000 +0100" stop="20210803220000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210803220000 +0100" stop="20210804000000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210804000000 +0100" stop="20210804220000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210804220000 +0100" stop="20210805000000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210805000000 +0100" stop="20210805020000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210805020000 +0100" stop="20210805040000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210805040000 +0100" stop="20210805060000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210805060000 +0100" stop="20210805080000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210805080000 +0100" stop="20210805100000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210805100000 +0100" stop="20210805120000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210805120000 +0100" stop="20210805140000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210805140000 +0100" stop="20210805160000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210805160000 +0100" stop="20210805180000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210805180000 +0100" stop="20210805200000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210805200000 +0100" stop="20210805220000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20210805220000 +0100" stop="20210806000000 +0100" channel="elevensports6.pt">
+    <title lang="pt">ELEVEN 6</title>
   </programme>
 </tv>
